@@ -1,0 +1,4 @@
+interface:
+  display_name: "工程式素材与配方编辑器"
+  short_description: "构建紧凑的工程式素材编辑器，处理物品拿取、面板组合、CAD 框选和状态同步"
+  default_prompt: "使用 $engineering-asset-editors 设计或调整工程式素材与配方编辑器，先明确对象和交互，再实现当前要求。"
