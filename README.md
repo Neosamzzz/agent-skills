@@ -9,6 +9,10 @@
 | [project-hygiene](project-hygiene/SKILL.md) | 在项目修改、文档维护和测试过程中优先复用现有内容，预防不必要的文件、目录和一次性产物增生。 |
 | [engineering-asset-editors](engineering-asset-editors/SKILL.md) | 工程式素材与配方编辑器：物品拿取、面板与配方分离、CAD 框选、对象菜单和本地 API 同步。 |
 
+## 参考资料
+
+- [React Bits 组件收藏](references/react-bits.md)
+
 ## 使用
 
 选择需要的技能，将对应目录安装到所用 Agent 的技能目录。请按所用工具的技能加载方式操作。
